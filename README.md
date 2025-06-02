@@ -1,1 +1,1 @@
-A lightweight, user-friendly Expense Tracker built with Python (or specify the tech stack you're using) to help users monitor personal or business finances. This tool allows users to log income and expenses, categorize transactions, generate reports, and visualize spending habits over time.# Expense_Tracker
+A lightweight, user-friendly Expense Tracker built with Python to help users monitor personal or business finances. This tool allows users to log income and expenses, categorize transactions, generate reports, and visualize spending habits over time.# Expense_Tracker
